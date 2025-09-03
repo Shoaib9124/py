@@ -1,0 +1,323 @@
+
+Trying cost limit = 0
+
+Trying cost limit = 1
+
+Trying cost limit = 2
+
+Trying cost limit = 3
+
+Trying cost limit = 4
+
+Trying cost limit = 5
+
+Trying cost limit = 6
+
+Trying cost limit = 7
+
+Trying cost limit = 8
+
+Trying cost limit = 9
+
+Trying cost limit = 10
+
+Trying cost limit = 11
+
+Trying cost limit = 12
+
+Trying cost limit = 13
+
+Trying cost limit = 14
+
+Trying cost limit = 15
+
+Trying cost limit = 16
+
+Trying cost limit = 17
+
+Trying cost limit = 18
+
+Trying cost limit = 19
+
+Trying cost limit = 20
+
+Trying cost limit = 21
+
+Trying cost limit = 22
+
+Trying cost limit = 23
+
+Trying cost limit = 24
+
+Trying cost limit = 25
+
+Trying cost limit = 26
+
+Trying cost limit = 27
+
+Trying cost limit = 28
+
+Trying cost limit = 29
+
+Trying cost limit = 30
+
+Trying cost limit = 31
+
+Trying cost limit = 32
+
+Trying cost limit = 33
+
+Trying cost limit = 34
+
+Trying cost limit = 35
+
+Trying cost limit = 36
+
+Trying cost limit = 37
+
+Trying cost limit = 38
+
+Trying cost limit = 39
+
+Trying cost limit = 40
+
+Trying cost limit = 41
+
+Trying cost limit = 42
+
+Trying cost limit = 43
+
+Trying cost limit = 44
+
+Trying cost limit = 45
+
+Trying cost limit = 46
+
+Trying cost limit = 47
+
+Trying cost limit = 48
+
+Trying cost limit = 49
+
+Trying cost limit = 50
+
+Trying cost limit = 51
+
+Trying cost limit = 52
+
+Trying cost limit = 53
+
+Trying cost limit = 54
+
+Trying cost limit = 55
+
+Trying cost limit = 56
+
+Trying cost limit = 57
+
+Trying cost limit = 58
+
+Trying cost limit = 59
+
+Trying cost limit = 60
+
+Trying cost limit = 61
+
+Trying cost limit = 62
+
+Trying cost limit = 63
+
+Trying cost limit = 64
+
+Trying cost limit = 65
+
+Trying cost limit = 66
+
+Trying cost limit = 67
+
+Trying cost limit = 68
+
+Trying cost limit = 69
+
+Trying cost limit = 70
+
+Trying cost limit = 71
+
+Trying cost limit = 72
+
+Trying cost limit = 73
+
+Trying cost limit = 74
+
+Trying cost limit = 75
+
+Trying cost limit = 76
+
+Trying cost limit = 77
+
+Trying cost limit = 78
+
+Trying cost limit = 79
+
+Trying cost limit = 80
+
+Trying cost limit = 81
+
+Trying cost limit = 82
+
+Trying cost limit = 83
+Solution found!
+
+Steps:
+Step 1: Move Right, Cost = 4
+1 0 2
+3 4 5
+6 7 8
+
+Step 2: Move Right, Cost = 4
+1 2 0
+3 4 5
+6 7 8
+
+Step 3: Move Down, Cost = 3
+1 2 5
+3 4 0
+6 7 8
+
+Step 4: Move Left, Cost = 1
+1 2 5
+3 0 4
+6 7 8
+
+Step 5: Move Left, Cost = 1
+1 2 5
+0 3 4
+6 7 8
+
+Step 6: Move Down, Cost = 3
+1 2 5
+6 3 4
+0 7 8
+
+Step 7: Move Right, Cost = 4
+1 2 5
+6 3 4
+7 0 8
+
+Step 8: Move Right, Cost = 4
+1 2 5
+6 3 4
+7 8 0
+
+Step 9: Move Up, Cost = 2
+1 2 5
+6 3 0
+7 8 4
+
+Step 10: Move Left, Cost = 1
+1 2 5
+6 0 3
+7 8 4
+
+Step 11: Move Left, Cost = 1
+1 2 5
+0 6 3
+7 8 4
+
+Step 12: Move Up, Cost = 2
+0 2 5
+1 6 3
+7 8 4
+
+Step 13: Move Right, Cost = 4
+2 0 5
+1 6 3
+7 8 4
+
+Step 14: Move Right, Cost = 4
+2 5 0
+1 6 3
+7 8 4
+
+Step 15: Move Down, Cost = 3
+2 5 3
+1 6 0
+7 8 4
+
+Step 16: Move Left, Cost = 1
+2 5 3
+1 0 6
+7 8 4
+
+Step 17: Move Up, Cost = 2
+2 0 3
+1 5 6
+7 8 4
+
+Step 18: Move Right, Cost = 4
+2 3 0
+1 5 6
+7 8 4
+
+Step 19: Move Down, Cost = 3
+2 3 6
+1 5 0
+7 8 4
+
+Step 20: Move Down, Cost = 3
+2 3 6
+1 5 4
+7 8 0
+
+Step 21: Move Left, Cost = 1
+2 3 6
+1 5 4
+7 0 8
+
+Step 22: Move Up, Cost = 2
+2 3 6
+1 0 4
+7 5 8
+
+Step 23: Move Right, Cost = 4
+2 3 6
+1 4 0
+7 5 8
+
+Step 24: Move Up, Cost = 2
+2 3 0
+1 4 6
+7 5 8
+
+Step 25: Move Left, Cost = 1
+2 0 3
+1 4 6
+7 5 8
+
+Step 26: Move Left, Cost = 1
+0 2 3
+1 4 6
+7 5 8
+
+Step 27: Move Down, Cost = 3
+1 2 3
+0 4 6
+7 5 8
+
+Step 28: Move Right, Cost = 4
+1 2 3
+4 0 6
+7 5 8
+
+Step 29: Move Down, Cost = 3
+1 2 3
+4 5 6
+7 0 8
+
+Step 30: Move Right, Cost = 4
+1 2 3
+4 5 6
+7 8 0
+
+Total Cost: 79
+Goal found at cost 83

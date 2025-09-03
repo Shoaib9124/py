@@ -1,0 +1,283 @@
+Solution found!
+
+Steps:
+Move 1: Right
+1 0 2
+3 4 5
+6 7 8
+
+Move 2: Right
+1 2 0
+3 4 5
+6 7 8
+
+Move 3: Down
+1 2 5
+3 4 0
+6 7 8
+
+Move 4: Left
+1 2 5
+3 0 4
+6 7 8
+
+Move 5: Left
+1 2 5
+0 3 4
+6 7 8
+
+Move 6: Down
+1 2 5
+6 3 4
+0 7 8
+
+Move 7: Right
+1 2 5
+6 3 4
+7 0 8
+
+Move 8: Right
+1 2 5
+6 3 4
+7 8 0
+
+Move 9: Up
+1 2 5
+6 3 0
+7 8 4
+
+Move 10: Left
+1 2 5
+6 0 3
+7 8 4
+
+Move 11: Left
+1 2 5
+0 6 3
+7 8 4
+
+Move 12: Down
+1 2 5
+7 6 3
+0 8 4
+
+Move 13: Right
+1 2 5
+7 6 3
+8 0 4
+
+Move 14: Right
+1 2 5
+7 6 3
+8 4 0
+
+Move 15: Up
+1 2 5
+7 6 0
+8 4 3
+
+Move 16: Left
+1 2 5
+7 0 6
+8 4 3
+
+Move 17: Left
+1 2 5
+0 7 6
+8 4 3
+
+Move 18: Down
+1 2 5
+8 7 6
+0 4 3
+
+Move 19: Right
+1 2 5
+8 7 6
+4 0 3
+
+Move 20: Right
+1 2 5
+8 7 6
+4 3 0
+
+Move 21: Up
+1 2 5
+8 7 0
+4 3 6
+
+Move 22: Left
+1 2 5
+8 0 7
+4 3 6
+
+Move 23: Left
+1 2 5
+0 8 7
+4 3 6
+
+Move 24: Down
+1 2 5
+4 8 7
+0 3 6
+
+Move 25: Right
+1 2 5
+4 8 7
+3 0 6
+
+Move 26: Right
+1 2 5
+4 8 7
+3 6 0
+
+Move 27: Up
+1 2 5
+4 8 0
+3 6 7
+
+Move 28: Left
+1 2 5
+4 0 8
+3 6 7
+
+Move 29: Left
+1 2 5
+0 4 8
+3 6 7
+
+Move 30: Down
+1 2 5
+3 4 8
+0 6 7
+
+Move 31: Right
+1 2 5
+3 4 8
+6 0 7
+
+Move 32: Up
+1 2 5
+3 0 8
+6 4 7
+
+Move 33: Right
+1 2 5
+3 8 0
+6 4 7
+
+Move 34: Up
+1 2 0
+3 8 5
+6 4 7
+
+Move 35: Left
+1 0 2
+3 8 5
+6 4 7
+
+Move 36: Down
+1 8 2
+3 0 5
+6 4 7
+
+Move 37: Left
+1 8 2
+0 3 5
+6 4 7
+
+Move 38: Down
+1 8 2
+6 3 5
+0 4 7
+
+Move 39: Right
+1 8 2
+6 3 5
+4 0 7
+
+Move 40: Right
+1 8 2
+6 3 5
+4 7 0
+
+Move 41: Up
+1 8 2
+6 3 0
+4 7 5
+
+Move 42: Left
+1 8 2
+6 0 3
+4 7 5
+
+Move 43: Left
+1 8 2
+0 6 3
+4 7 5
+
+Move 44: Down
+1 8 2
+4 6 3
+0 7 5
+
+Move 45: Right
+1 8 2
+4 6 3
+7 0 5
+
+Move 46: Up
+1 8 2
+4 0 3
+7 6 5
+
+Move 47: Up
+1 0 2
+4 8 3
+7 6 5
+
+Move 48: Right
+1 2 0
+4 8 3
+7 6 5
+
+Move 49: Down
+1 2 3
+4 8 0
+7 6 5
+
+Move 50: Left
+1 2 3
+4 0 8
+7 6 5
+
+Move 51: Down
+1 2 3
+4 6 8
+7 0 5
+
+Move 52: Right
+1 2 3
+4 6 8
+7 5 0
+
+Move 53: Up
+1 2 3
+4 6 0
+7 5 8
+
+Move 54: Left
+1 2 3
+4 0 6
+7 5 8
+
+Move 55: Down
+1 2 3
+4 5 6
+7 0 8
+
+Move 56: Right
+1 2 3
+4 5 6
+7 8 0
+

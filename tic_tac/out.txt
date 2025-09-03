@@ -1,0 +1,21 @@
+Initial Board:
+_ _ X
+O _ _
+_ X O
+
+AI chooses position: (0, 1)
+_ X X
+O _ _
+_ X O
+
+Human chooses position: (0, 0)
+O X X
+O _ _
+_ X O
+
+AI chooses position: (1, 1)
+O X X
+O X _
+_ X O
+
+AI wins!

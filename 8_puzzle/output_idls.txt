@@ -1,0 +1,230 @@
+
+Trying depth limit = 0
+
+Trying depth limit = 1
+
+Trying depth limit = 2
+
+Trying depth limit = 3
+
+Trying depth limit = 4
+
+Trying depth limit = 5
+
+Trying depth limit = 6
+
+Trying depth limit = 7
+
+Trying depth limit = 8
+
+Trying depth limit = 9
+
+Trying depth limit = 10
+
+Trying depth limit = 11
+
+Trying depth limit = 12
+
+Trying depth limit = 13
+
+Trying depth limit = 14
+
+Trying depth limit = 15
+
+Trying depth limit = 16
+
+Trying depth limit = 17
+
+Trying depth limit = 18
+
+Trying depth limit = 19
+
+Trying depth limit = 20
+
+Trying depth limit = 21
+
+Trying depth limit = 22
+
+Trying depth limit = 23
+
+Trying depth limit = 24
+
+Trying depth limit = 25
+
+Trying depth limit = 26
+
+Trying depth limit = 27
+
+Trying depth limit = 28
+
+Trying depth limit = 29
+
+Trying depth limit = 30
+
+Trying depth limit = 31
+
+Trying depth limit = 32
+Solution found!
+
+Steps:
+Move 1: Right
+1 0 2
+3 4 5
+6 7 8
+
+Move 2: Right
+1 2 0
+3 4 5
+6 7 8
+
+Move 3: Down
+1 2 5
+3 4 0
+6 7 8
+
+Move 4: Left
+1 2 5
+3 0 4
+6 7 8
+
+Move 5: Left
+1 2 5
+0 3 4
+6 7 8
+
+Move 6: Down
+1 2 5
+6 3 4
+0 7 8
+
+Move 7: Right
+1 2 5
+6 3 4
+7 0 8
+
+Move 8: Up
+1 2 5
+6 0 4
+7 3 8
+
+Move 9: Left
+1 2 5
+0 6 4
+7 3 8
+
+Move 10: Up
+0 2 5
+1 6 4
+7 3 8
+
+Move 11: Right
+2 0 5
+1 6 4
+7 3 8
+
+Move 12: Right
+2 5 0
+1 6 4
+7 3 8
+
+Move 13: Down
+2 5 4
+1 6 0
+7 3 8
+
+Move 14: Left
+2 5 4
+1 0 6
+7 3 8
+
+Move 15: Down
+2 5 4
+1 3 6
+7 0 8
+
+Move 16: Right
+2 5 4
+1 3 6
+7 8 0
+
+Move 17: Up
+2 5 4
+1 3 0
+7 8 6
+
+Move 18: Left
+2 5 4
+1 0 3
+7 8 6
+
+Move 19: Up
+2 0 4
+1 5 3
+7 8 6
+
+Move 20: Right
+2 4 0
+1 5 3
+7 8 6
+
+Move 21: Down
+2 4 3
+1 5 0
+7 8 6
+
+Move 22: Left
+2 4 3
+1 0 5
+7 8 6
+
+Move 23: Left
+2 4 3
+0 1 5
+7 8 6
+
+Move 24: Up
+0 4 3
+2 1 5
+7 8 6
+
+Move 25: Right
+4 0 3
+2 1 5
+7 8 6
+
+Move 26: Down
+4 1 3
+2 0 5
+7 8 6
+
+Move 27: Left
+4 1 3
+0 2 5
+7 8 6
+
+Move 28: Up
+0 1 3
+4 2 5
+7 8 6
+
+Move 29: Right
+1 0 3
+4 2 5
+7 8 6
+
+Move 30: Down
+1 2 3
+4 0 5
+7 8 6
+
+Move 31: Right
+1 2 3
+4 5 0
+7 8 6
+
+Move 32: Down
+1 2 3
+4 5 6
+7 8 0
+
+Goal found at depth 32
